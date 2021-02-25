@@ -1,5 +1,5 @@
 # Cheat Sheet
-This repository aims at compiling any interesting and/or useful commands, suggestions, reminders related to programming.
+This repository aims at compiling any interesting and/or useful commands, suggestions, reminders and alike related to programming.
 Inspired by the (much greater) [Today I learned](https://github.com/amandafbri/today-i-learned) repo from [@amandafbri](https://github.com/amandafbri).
 
 ## Vue.js Client
