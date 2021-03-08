@@ -11,7 +11,15 @@ scp -r /path/to/folder user@remote.ip:/path/to/remote/    # Copy directories usi
 
 chmod +x /path/to/script.py        # Make script executable
 ps -ef | grep '*'       # Get background processes
+```
 
+### Command history based on input
+Add the following to the ``~/.inputrc`` file (create it if it doesn't exist):
+```bash
+# Arrow up
+"\e[A":history-search-backward
+# Arrow down
+"\e[B":history-search-forward
 ```
 
 ## Docker Compose
